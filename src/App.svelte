@@ -52,7 +52,7 @@
         <br />
         <small>
           <a
-            class="font-semibold hover:underline"
+            class="btn btn-outline btn-primary font-semibold hover:underline"
             href={`https://www.openstreetmap.org/?mlat=${position.lat}&mlon=${position.lng}#map=15/${position.lat}/${position.lng}`}
             target="_blank"
           >
